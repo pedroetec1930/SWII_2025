@@ -1,0 +1,3 @@
+Grammarly
+	Grammarly é uma ferramenta de IA de correção de texto em inglês. O Grammarly oferece, além das correções, diferentes sugestões para incrementar o texto de acordo com certos parâmetros fornecidos pelo usuário(formalidade, clareza, entre outros). Funciona também como atalho do Google Chrome sendo útil em momentos espontâneos. 
+	O Grammarly possui um plano de assinatura, porém também é possível utilizar de forma gratuita.
